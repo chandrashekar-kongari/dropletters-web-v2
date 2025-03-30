@@ -16,8 +16,9 @@ export function Navbar() {
         <nav className="max-w-5xl mx-auto flex items-center justify-between rounded-full border border-black-200 bg-white px-5 py-2 ">
           <div className="flex items-center">
             <Link href="/" className="flex items-center gap-1">
-              <Image src="/droplet.svg" alt="droplet" width={28} height={28} />
-              <span className="text-2xl font-bold text-[#184c5a]">droplet</span>
+              <span className="text-2xl font-bold text-[#184c5a]">
+                drop letters
+              </span>
             </Link>
           </div>
 

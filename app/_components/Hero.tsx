@@ -20,7 +20,7 @@ export default function Hero() {
 
       {/* Subtitle */}
       <p className="text-lg md:text-xl text-gray-500 max-w-2xl">
-        Fix your spelling and grammar with in-place shortcuts (⌘ + Q)
+        Fix your spelling and grammar with in-place shortcuts (⌘ + D)
       </p>
 
       {/* CTA Button */}
@@ -29,7 +29,7 @@ export default function Hero() {
         className="mt-4 inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#184c5a] text-white font-medium hover:bg-[#184c5a]/90 transition-colors"
       >
         <span>🍎</span>
-        <span>Download Droplet for Mac</span>
+        <span>Download Drop Letters for Mac</span>
       </Link>
 
       {/* Demo Video */}
